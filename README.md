@@ -5,11 +5,13 @@
 ## 🎙️ Content
 
 🟪 Twitch channel: TBD
+
 🔴 YouTube channel: TBD
+
 📸 Instagram acc: TBD
 
 In the last nearly **8 years** I've worked by title as a modern **UI Software Engineer for web and mobile.**
-Expect to see my *Backend Software Engineering skills* with Node, Python, and **Go (Preference)** and DevOps with Docker, Kubernetes, Istio, Ansible, Helm, Terraform, Jenkins, and Prometheus. As I am truly a full stack developer.
+However, I've been doing *Backend Software Engineering* with **Go (Preference)** & SQL as well as DevOps.
 
 As I seek a new role due to unemployment, I founded a new tech startup, TekSrc. While I apply and interview for my next role watch me do DSA via Leetcode, build 3.0.0 of my portfolio site in NextJS, and develop a Full Stack SaaS platform web application from scratch in React, TypeScript, TanStack, TailwindCSS, Golang, PostgreSQL, Docker, & more to execute a GO-TO-MARKET Strategy. 
 
@@ -17,7 +19,7 @@ As I seek a new role due to unemployment, I founded a new tech startup, TekSrc. 
 
 - DSA with Go (LeetCode and AlgoExpert)
 - Docker, Kubernetes, & Cloud Certifications (Docker Exam WIP - Learning via Acloudguru)
-- Web Dev with React / Go (SaaS platform for Appraisal Management Companies)
+- Web Dev with React / Go (projects)
 
 ## 🧰 Skills and Tools
 
