@@ -1,4 +1,4 @@
-# 🎩 Hey there!
+# 🎩 Hey.
 
 **I'm Frank:** *A husband, father, developer, and instructor.*
 
@@ -8,18 +8,14 @@
 
 🔴 YouTube channel: TBD
 
-📸 Instagram acc: TBD
-
 In the last nearly **8 years** I've worked by title as a modern **UI Software Engineer for web and mobile.**
-However, I've been doing *Backend Software Engineering* with **Go (Preference)** & SQL as well as DevOps.
-
-As I seek a new role due to unemployment, I founded a new tech startup, TekSrc. While I apply and interview for my next role watch me do DSA via Leetcode, build 3.0.0 of my portfolio site in NextJS, and develop a Full Stack SaaS platform web application from scratch in React, TypeScript, TanStack, TailwindCSS, Golang, PostgreSQL, Docker, & more to execute a GO-TO-MARKET Strategy. 
+However, I've been doing *Backend Software Engineering* with **Go (Preference)**, Python, & SQL. Also doing some DevOps.
 
 ## 👨🏻‍💻 Code
 
 - DSA with Go (LeetCode and AlgoExpert)
 - Docker, Kubernetes, & Cloud Certifications (Docker Exam WIP - Learning via Acloudguru)
-- Web Dev with React / Go (projects)
+- Web Dev with React / Go (project is Lenslocked focused on Go ATM)
 
 ## 🧰 Skills and Tools
 
@@ -29,6 +25,6 @@ As I seek a new role due to unemployment, I founded a new tech startup, TekSrc. 
 
 ## 👋🏼Connect
 
-- ✖️ [Twitter](tbd)
+- ✖️ [Twitter](https://x.com/FullStack_Frank)
 - 💼 [LinkedIn](https://www.linkedin.com/in/franklincarvajal)
 
